@@ -1,2 +1,5 @@
 # test_diagram
-just a test
+
+
+here it is:
+![Alt text](./image.png?raw=true "Optional Title")
